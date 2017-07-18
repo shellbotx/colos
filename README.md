@@ -1,6 +1,5 @@
 ## COLOS
 COLOS is a collection of high quality vim colorschemes.
-
 ### [Badwolf](http://github.com/sjl/badwolf)
 ![badwolf screenshot](img/badwolf.png)
 <hr>
